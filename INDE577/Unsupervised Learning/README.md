@@ -1,0 +1,3 @@
+Welcome to unsupervised learning, or PCA specifically! My linear algebra and statistics classes finally come to use here.
+
+Unsupervised learning is ML when we're training a model on unlabled data. That is, there doesn't exist neat input and ouput pairs required of supervised learning. Despite the name, unsupervised learning is just a prerequisite step to supervised learning. Once patterns, relationships, and insights are found within the data, supervised learning techniques can then be performed. 
